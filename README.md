@@ -65,7 +65,7 @@ for instance in X_test:
 
 
 # Link to run if this copy paste is not working
-https://replit.com/@vigneshm2021csb/KNN
+https://replit.com/@vigneshm2021csb/KNN#main.py
 
 # input 
 X_test = [
